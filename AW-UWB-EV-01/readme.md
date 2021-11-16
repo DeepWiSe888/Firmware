@@ -1,5 +1,3 @@
-##### 1.1
-
-1. Support for modifying fps
-2. Support for get the hardware version
-3. The hardware corresponds to the software version 1.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a88efe151785e43e2aa110c8c41dbdff31cf8fc1a30d0960ffc9da661feeb88
+size 139
